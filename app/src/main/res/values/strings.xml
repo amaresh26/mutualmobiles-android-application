@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PlayerInfo</string>
+    <string name="sample">sample</string>
+    <string name="player_name">Name</string>
+    <string name="balance">Balance</string>
+    <string name="last_login">Last Login</string>
+    <string name="game_details">Game Details</string>
+    <string name="jackpot">Jackpot</string>
+    <string name="date">Date</string>
+    <string name="list_games">List Of Games</string>
+</resources>

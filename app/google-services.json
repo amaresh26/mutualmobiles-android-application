@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "31541160259",
+    "firebase_url": "https://mutualmobile-playerinfo.firebaseio.com",
+    "project_id": "mutualmobile-playerinfo",
+    "storage_bucket": "mutualmobile-playerinfo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31541160259:android:04adedf4b4cf4b44",
+        "android_client_info": {
+          "package_name": "com.mutualmobiles.playerinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31541160259-uobaguatsfoo4a3s5nj9phkb1h2lg8sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mutualmobiles.playerinfo",
+            "certificate_hash": "1b01f8e2b8be77486a38c7f07e46aebad3ae8337"
+          }
+        },
+        {
+          "client_id": "31541160259-38tidia4obsv4kam5hd75jdvfasp7439.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dkU363SYbTZ4SAMn78Qotw0mkTek3aQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31541160259-38tidia4obsv4kam5hd75jdvfasp7439.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
